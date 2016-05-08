@@ -1,0 +1,35 @@
+body {
+
+  background-color: #163E11;
+}
+
+
+
+h2,h1 {
+color: #000000;
+text-align: center;
+text-decoration: underline;
+}
+
+footer{
+  color: #FFFDFD;
+  text-align: center;
+}
+#center{
+
+width: 80px;
+background-color: #D5EB79;
+min-width: 960px;
+max-width: 2048px;
+box-shadow: 5px 5px 5px;
+margin: 0 auto;
+}
+div{
+	background-height:auto;
+
+}
+body{
+  border: thick black solid;
+
+}
+
